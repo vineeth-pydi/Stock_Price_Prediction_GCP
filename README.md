@@ -1,7 +1,7 @@
 # Stock Price Prediction and Anomaly Detection
 
 ## Project Overview
-This project aims to leverage Google Cloud Platform (GCP) technologies to analyze historical and real-time stock data for predicting stock price movements and detecting anomalies. Using BigQuery, Cloud Pub/Sub, Dataflow, and Data Studio, we provide insights for informed investment decisions.
+This project aims to leverage Google Cloud Platform (GCP) technologies to analyze historical and real-time stock data for predicting stock price movements and detecting anomalies. Using BigQuery, Cloud Pub/Sub, Dataflow, and Data Studio, and Vertex AI workbench we provide insights for informed investment decisions.
 
 ### Key Features
 - Real-time stock price prediction using historical and streamed data.
