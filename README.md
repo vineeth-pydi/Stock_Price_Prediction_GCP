@@ -32,9 +32,6 @@ Markdown documents for project reports and summaries.
 - `project_summary.md` - Executive summary of the project.
 - `data_analysis_report.md` - Detailed report on data analysis findings.
 
-![image](https://github.com/vineeth-pydi/Stock_Price_Prediction_GCP/assets/124265210/35ce202a-01c7-4f8b-a567-2456eae79d67)
-
-
 ### `/queries`
 SQL queries and BigQuery related files for data processing and analytics.
 - `stock_data_query.sql` - Query for extracting stock data from BigQuery.
