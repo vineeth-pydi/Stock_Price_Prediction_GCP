@@ -71,11 +71,7 @@ python code/data_ingestion.py
 python code/ml_model_training.py
 ```
 
-## Contributing
-Instructions for how to contribute to the project.
-
-## License
-Details about the project's licensing.
-
 ## Acknowledgments
-Credits to team members, advisors, and any third-party resources used.
+We extend our deepest gratitude to Professor Alok Chaturvedi, whose expertise and guidance in Big Data have been invaluable to this project. Professor Chaturvedi's extensive knowledge and passion for teaching have greatly enhanced our understanding and application of Big Data technologies. His commitment to academic excellence and his ability to make complex concepts accessible to all students have been instrumental in the success of our project.
+
+We are thankful for the insights, constructive feedback, and unwavering support provided by Professor Chaturvedi throughout the duration of this project. His dedication to fostering a deep understanding of AI Assisted Big Data in the Cloud and its real-world applications has not only contributed to the success of this project but has also prepared us for future challenges in the field of data analytics.
