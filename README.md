@@ -20,6 +20,7 @@ Jupyter notebooks for detailed data analysis and modeling.
 - `stock_price_analysis.ipynb` - Notebook for initial data exploration and visualization.
 - `anomaly_detection_model.ipynb` - Notebook detailing the anomaly detection modeling process.
 
+![image](https://github.com/vineeth-pydi/Stock_Price_Prediction_GCP/assets/124265210/8ee3fb97-18ae-4b7b-9fe7-986940ba0db3)
 
 ### `/code`
 Source code and scripts for data processing and machine learning models.
@@ -31,7 +32,8 @@ Markdown documents for project reports and summaries.
 - `project_summary.md` - Executive summary of the project.
 - `data_analysis_report.md` - Detailed report on data analysis findings.
 
-![Report Summary Placeholder]
+![image](https://github.com/vineeth-pydi/Stock_Price_Prediction_GCP/assets/124265210/35ce202a-01c7-4f8b-a567-2456eae79d67)
+
 
 ### `/queries`
 SQL queries and BigQuery related files for data processing and analytics.
@@ -80,7 +82,3 @@ Details about the project's licensing.
 
 ## Acknowledgments
 Credits to team members, advisors, and any third-party resources used.
-
----
-
-Remember to replace placeholders like `[repository-url]` with actual links and add images at the indicated placeholders from your document. This README provides a clear, structured overview of your project, making it easy for others to understand and navigate your repository.
